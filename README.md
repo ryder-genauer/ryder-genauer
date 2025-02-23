@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 -->
 
 I am making changes. Let's hope this works!
+
+Resume:
+
+Ryder Genauer
+
+Northeastern University 2028
+
+Computer Science and Economics
+
+NU.in Spain Alumni
