@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am making changes. Let's hope this works!
-
 Resume:
 
 Ryder Genauer
