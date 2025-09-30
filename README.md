@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Resume:
-
 Ryder Genauer
 
 Northeastern University 2028
